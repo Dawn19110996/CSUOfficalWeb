@@ -12,7 +12,7 @@ background: url("${props => props.img}") no-repeat;
 background-size: cover; 
 background-position:center; 
 height: 100vh;
-opacity: 0.5;
+opacity: 0.6;
 padding:0!important;
 color : white;
 
@@ -26,7 +26,9 @@ display: flex;
 align-items: center; 
 justify-content: center;
 font-size: ${props => props.fontSize || 6}vmin;
--webkit-text-stroke: 1px black;
+	span{
+		background-color:rgba(0, 0, 0, 0.7);
+	}
 `
 
 

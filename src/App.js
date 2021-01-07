@@ -41,12 +41,15 @@ function App() {
       <JBStyle  img={img2} >
         <Container className='text-center'>
           <JBTContainStyle data-aos='fade-in' data-aos-once='true'>
-          民國54年（1965）<br/>
-          由鄭駿源、龔金柯、李金盛等先生<br/>
-          擇定高雄澄清湖畔創建本校<br/>
-          取《大學》「正心」「修身」之宏旨<br/>
-          特定校名為『正修』<br/>
-          並以「止於至善」為校訓<br/>
+          <span>
+            民國54年（1965）<br/>
+            由鄭駿源、龔金柯、李金盛等先生<br/>
+            擇定高雄澄清湖畔創建本校<br/>
+            取《大學》「正心」「修身」之宏旨<br/>
+            特定校名為『正修』<br/>
+            並以「止於至善」為校訓<br/>
+          </span>
+          
           </JBTContainStyle>
         </Container>
       </JBStyle>
