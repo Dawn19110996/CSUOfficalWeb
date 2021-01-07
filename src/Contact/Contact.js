@@ -5,7 +5,7 @@ import TitleH2 from '../componet/TitleH2'
 export default function Contact(){
   return(
     <>
-      <TitleH2 id='contact'>聯絡我們</TitleH2>
+      <TitleH2 id='contact'>聯絡正修</TitleH2>
       <Row className='justify-content-around mt-3 align-items-center'>
         <Col lg={6} xs={10} >
           <Card style={{ width: '100%' }}>
