@@ -43,7 +43,7 @@ export default function NavBar(){
                 offset={-90}
                 duration={700}
               >
-                product<br/>處室介紹
+                introduction<br/>處室介紹
               </Link>
             </Nav.Link>
             <Nav.Link className='text-center ml-5'>
