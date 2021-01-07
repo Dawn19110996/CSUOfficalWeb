@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/SHOfficalWeb/static/css/main.efe46ee2.chunk.css",
+    "main.js": "/SHOfficalWeb/static/js/main.ec5d9a0d.chunk.js",
+    "main.js.map": "/SHOfficalWeb/static/js/main.ec5d9a0d.chunk.js.map",
+    "runtime-main.js": "/SHOfficalWeb/static/js/runtime-main.bd59730a.js",
+    "runtime-main.js.map": "/SHOfficalWeb/static/js/runtime-main.bd59730a.js.map",
+    "static/css/2.b30984d7.chunk.css": "/SHOfficalWeb/static/css/2.b30984d7.chunk.css",
+    "static/js/2.1819c01c.chunk.js": "/SHOfficalWeb/static/js/2.1819c01c.chunk.js",
+    "static/js/2.1819c01c.chunk.js.map": "/SHOfficalWeb/static/js/2.1819c01c.chunk.js.map",
+    "static/js/3.06a9a169.chunk.js": "/SHOfficalWeb/static/js/3.06a9a169.chunk.js",
+    "static/js/3.06a9a169.chunk.js.map": "/SHOfficalWeb/static/js/3.06a9a169.chunk.js.map",
+    "index.html": "/SHOfficalWeb/index.html",
+    "static/css/2.b30984d7.chunk.css.map": "/SHOfficalWeb/static/css/2.b30984d7.chunk.css.map",
+    "static/css/main.efe46ee2.chunk.css.map": "/SHOfficalWeb/static/css/main.efe46ee2.chunk.css.map",
+    "static/js/2.1819c01c.chunk.js.LICENSE.txt": "/SHOfficalWeb/static/js/2.1819c01c.chunk.js.LICENSE.txt",
+    "static/media/1.71cc75ca.jpg": "/SHOfficalWeb/static/media/1.71cc75ca.jpg",
+    "static/media/10.d18a10d0.jpg": "/SHOfficalWeb/static/media/10.d18a10d0.jpg",
+    "static/media/11.84c3467c.jpg": "/SHOfficalWeb/static/media/11.84c3467c.jpg",
+    "static/media/3.f617e678.jpg": "/SHOfficalWeb/static/media/3.f617e678.jpg",
+    "static/media/4.01bf1bf7.jpg": "/SHOfficalWeb/static/media/4.01bf1bf7.jpg",
+    "static/media/5.e9236d46.jpg": "/SHOfficalWeb/static/media/5.e9236d46.jpg",
+    "static/media/6.e1e74c7a.jpg": "/SHOfficalWeb/static/media/6.e1e74c7a.jpg",
+    "static/media/7.40adf169.jpg": "/SHOfficalWeb/static/media/7.40adf169.jpg",
+    "static/media/8.ac0acd06.jpg": "/SHOfficalWeb/static/media/8.ac0acd06.jpg",
+    "static/media/9.83330b69.jpg": "/SHOfficalWeb/static/media/9.83330b69.jpg",
+    "static/media/csu.63df7123.png": "/SHOfficalWeb/static/media/csu.63df7123.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd59730a.js",
+    "static/css/2.b30984d7.chunk.css",
+    "static/js/2.1819c01c.chunk.js",
+    "static/css/main.efe46ee2.chunk.css",
+    "static/js/main.ec5d9a0d.chunk.js"
+  ]
+}
